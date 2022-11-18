@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vw;
+    width: 100vw;
+}
+
+.container {
+    width: 200px;
+    max-width: 80%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.button-grid {
+    display: grid;
+    padding: 5px;
+}
+
+button {
+    margin: 5px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+#question-container {
+    display: flex;
+    flex-direction: column;
+}
