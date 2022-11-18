@@ -7,5 +7,5 @@ I learned how to organize my thought processes better, how to assignt elements t
 I also learned how to manipulate events and local storage.
 
 ## screenshot
-![image](https://user-images.githubusercontent.com/115959478/202624271-3a210a1a-38d0-4ecc-a670-548ef89220c5.png)
+![image](file:///C:/Desktop/bootcamp/Java-Quiz/screencapture-file-C-Desktop-bootcamp-java-quiz-index-html-2022-11-17-23_06_36.pdf)
 
