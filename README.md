@@ -7,5 +7,13 @@ I learned how to organize my thought processes better, how to assignt elements t
 I also learned how to manipulate events and local storage.
 
 ## screenshot
-![image](file:///C:/Desktop/bootcamp/Java-Quiz/screencapture-file-C-Desktop-bootcamp-java-quiz-index-html-2022-11-17-23_06_36.pdf)
+![image](https://user-images.githubusercontent.com/115959478/202624509-b0ae90ff-a90a-4550-902b-9706cb980e36.png)
 
+## license
+Copyright (c) 2012-2022 Scott Chacon and others
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
