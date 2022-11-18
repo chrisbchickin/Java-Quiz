@@ -12,7 +12,7 @@ var score = 0
 
 var currentQuestionIndex = 0;
 var secondsLeft = 10;
-
+//array of objects containing questions and answers
 var questions = [
     {
         question: "question 1",
@@ -64,7 +64,7 @@ var questions = [
 
 
 
-
+//runs start game on click
 startButton.addEventListener("click", startGame);
 
 function startGame() {
@@ -73,7 +73,7 @@ function startGame() {
     nextQuestion();
     setTime();
 }
-
+//either shows the next question or game over screen
 function nextQuestion () {
     if (currentQuestionIndex < 5) {
         showQuestion(questions[currentQuestionIndex]);
@@ -83,7 +83,7 @@ function nextQuestion () {
     }
     
 }
-
+// creates the question and buttons 
 function showQuestion (chosenQuestion) {
         answerButtons.innerHTML = "";
         var question = chosenQuestion.question
@@ -111,7 +111,7 @@ function showQuestion (chosenQuestion) {
         answerButtons.appendChild(button);
     }
 }
-
+// sets the timer
 var setTime = function () {
   var timerInterval = setInterval(function() {
     secondsLeft--;
@@ -125,7 +125,7 @@ var setTime = function () {
 
   }, 1000);
 }
-
+//shows game over screen
 function gameOver () {
     questionContainer.innerHTML = ""
     timeEl.textContent = ""
@@ -141,7 +141,7 @@ function gameOver () {
 
     renderlastregistered();
 }
-
+//unfunctional/unfinished attempt at local storage :(
 function renderlastregistered() {
     var highscore = localStorage.getItem("highscore");
 
